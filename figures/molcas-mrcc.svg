@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="molcas-mrcc.svg"
+   inkscape:export-filename="figures/openmolcas-mrcc.jpg"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.2988636"
+     inkscape:cx="501.20735"
+     inkscape:cy="563.9545"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g33"
+     showgrid="false"
+     showguides="true">
+    <inkscape:grid
+       id="grid17"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Dot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot-8-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17-4-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot-8-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17-4-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-9-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17-42" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot-8-1-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17-4-8-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-1-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-9-7-0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e3e2db;fill-opacity:1;stroke:#000000;stroke-width:0.173365"
+       id="rect1"
+       width="31.13233"
+       height="35.309498"
+       x="19.598"
+       y="47.452824"
+       ry="7.4335794" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:4.58611px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+       x="21.085266"
+       y="54.808708"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-size:4.58611px;fill:#000000;fill-opacity:1;stroke-width:0.193"
+         x="21.085266"
+         y="54.808708">&amp;GATEWAY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+       x="52.904331"
+       y="54.927952"
+       id="text2-5"><tspan
+         sodipodi:role="line"
+         id="tspan2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+         x="52.904331"
+         y="54.927952">Geometry + Basis set definition</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+       x="52.808594"
+       y="60.24052"
+       id="text2-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan2-9-7"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded Italic';fill:#000000;fill-opacity:1;stroke-width:0.193"
+         x="52.808594"
+         y="60.24052">Generate 1e-/2e- integrals in AO basis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+       x="52.904331"
+       y="65.593704"
+       id="text2-5-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan2-9-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+         x="52.904331"
+         y="65.593704">Compute orbitals</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+       x="52.553944"
+       y="71.63842"
+       id="text2-5-8-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan2-9-7-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+         x="52.553944"
+         y="71.63842">Compute orbitals</tspan></text>
+    <g
+       id="g12"
+       transform="translate(9.5249883,38.100018)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.233"
+         id="rect1-5"
+         width="81.198708"
+         height="24.453566"
+         x="10.102818"
+         y="52.14447"
+         ry="5.1481199" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="37.614628"
+         y="49.864807"
+         id="text2-5-3"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="37.614628"
+           y="49.864807">[1] TRANSFORM</tspan></text>
+      <g
+         id="g11"
+         transform="translate(0,-0.21896101)">
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="16.923689"
+           y="56.652969"
+           id="text2-5-8-2-6"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="16.923689"
+             y="56.652969">Read orbital</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="15.50969"
+           y="60.644703"
+           id="text2-5-8-2-6-8"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="15.50969"
+             y="60.644703">energies from</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="11.517401"
+           y="65.347519"
+           id="text2-5-8-2-6-8-0"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-4"
+             style="font-weight:normal;font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="11.517401"
+             y="65.347519">INPORB <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded'"
+   id="tspan11">or</tspan> DIAF</tspan></text>
+      </g>
+      <g
+         id="g11-8"
+         transform="translate(30.579298,-0.22453574)">
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="14.24552"
+           y="56.652969"
+           id="text2-5-8-2-6-6"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="14.24552"
+             y="56.652969">Build inactive</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="13.926847"
+           y="60.644703"
+           id="text2-5-8-2-6-8-8"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="13.926847"
+             y="60.644703">Fock matrix in</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="11.517401"
+           y="65.347519"
+           id="text2-5-8-2-6-8-0-4"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-4-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="11.517401"
+             y="65.347519">activae MO basis</tspan></text>
+      </g>
+      <g
+         id="g11-8-4"
+         transform="translate(56.59239,-0.54722923)">
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="16.516216"
+           y="60.644703"
+           id="text2-5-8-2-6-8-8-5"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-7-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="16.516216"
+             y="60.644703">TUVX [ ]</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="-42.38047"
+           y="73.109009"
+           id="text2-5-8-2-6-8-8-5-3"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-7-4-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="-42.38047"
+             y="73.109009">orbital_energies [ ], folded_Fock [ ], TUVX [ ]</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="11.517401"
+           y="65.347519"
+           id="text2-5-8-2-6-8-0-4-9"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-4-0-2"
+             style="font-weight:normal;font-size:3.52778px;fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="11.517401"
+             y="65.347519"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded'"
+   id="tspan12">from</tspan> RASSCF</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g33"
+       style="fill:#ffaacc"
+       transform="translate(-1.0583333,32.808348)">
+      <rect
+         style="fill:#ffaacc;fill-opacity:1;stroke:#000000;stroke-width:0.215261"
+         id="rect1-5-2"
+         width="81.216446"
+         height="20.8673"
+         x="21.053471"
+         y="151.0289"
+         ry="4.393116" />
+      <g
+         id="g11-7"
+         transform="translate(10.959523,96.801817)"
+         style="fill:#ffaacc">
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#ffaacc;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="13.034601"
+           y="58.813576"
+           id="text2-5-8-2-6-65"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-89"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="13.034601"
+             y="58.813576">After dumping the integrals in <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000"
+   id="tspan27">fort.55</tspan> file, run <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000"
+   id="tspan28">dmrcc</tspan></tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="13.034601"
+             y="63.230808"
+             id="tspan23">in a directory containing the as-generated <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000"
+   id="tspan29">fort.55</tspan></tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="13.034601"
+             y="67.648041"
+             id="tspan24">along with <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000"
+   id="tspan30">MINP</tspan> input file for <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000"
+   id="tspan31">MRCC</tspan>.</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="13.034601"
+             y="72.065269"
+             id="tspan26">Make sure to include keyword <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000"
+   id="tspan32">iface=cfour</tspan> in <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000"
+   id="tspan33">MINP</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g13"
+       transform="translate(9.5250003,37.830365)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24015"
+         id="rect1-5-6"
+         width="86.284149"
+         height="24.446415"
+         x="96.712654"
+         y="52.417698"
+         ry="5.1466146" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="123.6917"
+         y="50.663628"
+         id="text2-5-3-8"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="123.6917"
+           y="50.663628">[2] BUILD TABLES</tspan></text>
+      <g
+         id="g14"
+         transform="translate(-1.5875,-0.00557335)">
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="103.9784"
+           y="56.703663"
+           id="text2-5-8-2-6-3"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="103.9784"
+             y="56.703663">Active orbitals</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="100.02708"
+           y="60.695396"
+           id="text2-5-8-2-6-8-5"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-47"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="100.02708"
+             y="60.695396">energies with irrep-</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="102.53454"
+           y="65.398209"
+           id="text2-5-8-2-6-8-0-8"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-4-7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="102.53454"
+             y="65.398209">blocked indices</tspan></text>
+      </g>
+      <g
+         id="g11-8-45"
+         transform="translate(116.55042,0.04511825)">
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="15.053699"
+           y="56.652969"
+           id="text2-5-8-2-6-6-7"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-1-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="15.053699"
+             y="56.652969">Non-zero Fock</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="12.67906"
+           y="60.644703"
+           id="text2-5-8-2-6-8-8-51"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-7-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="12.67906"
+             y="60.644703">elements <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete'"
+   id="tspan14">&lt;i|F|j&gt;</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="17.02236"
+           y="65.347519"
+           id="text2-5-8-2-6-8-0-4-99"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-4-0-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="17.02236"
+             y="65.347519">with indices</tspan></text>
+      </g>
+      <g
+         id="g15"
+         transform="translate(2.6458334,-0.58129045)">
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="153.40097"
+           y="57.25526"
+           id="text2-5-8-2-6-6-7-3"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-1-3-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="153.40097"
+             y="57.25526">Non-zero 2e- ints</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="157.32724"
+           y="61.246994"
+           id="text2-5-8-2-6-8-8-51-4"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-7-5-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="157.32724"
+             y="61.246994"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete'"
+               id="tspan14-9">&lt;ij|1/r|kl&gt;</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="157.35315"
+           y="65.949814"
+           id="text2-5-8-2-6-8-0-4-99-2"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-4-0-0-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="157.35315"
+             y="65.949814">with indices</tspan></text>
+      </g>
+      <g
+         id="g11-8-4-9"
+         transform="translate(143.19865,-0.27757525)">
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+           x="-34.890377"
+           y="70.804367"
+           id="text2-5-8-2-6-8-8-5-3-7"
+           inkscape:transform-center-x="-5.1944444"
+           inkscape:transform-center-y="2.5462963"><tspan
+             sodipodi:role="line"
+             id="tspan2-9-7-3-3-9-7-4-3-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="-34.890377"
+             y="70.804367">OrbitalTable,FockTable,TwoElIntTable,</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+             x="-34.890377"
+             y="75.214088"
+             id="tspan15">orbsym [ ] = [1,1,1,2,2,3,.......] (irrep idx)</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#d7d7f4;fill-opacity:1;stroke:#000000;stroke-width:0.267427"
+       id="rect1-5-6-8"
+       width="86.256866"
+       height="30.324789"
+       x="106.48605"
+       y="120.82568"
+       ry="6.3841677" />
+    <rect
+       style="fill:#eed7f4;fill-opacity:1;stroke:#000000;stroke-width:0.42556"
+       id="rect1-5-6-8-8"
+       width="86.098732"
+       height="76.931854"
+       x="106.03577"
+       y="157.4045"
+       ry="16.196186" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+       x="132.92235"
+       y="119.05794"
+       id="text2-5-3-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan2-9-0-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+         x="132.92235"
+         y="119.05794">[3] ENERGY SORTING</tspan></text>
+    <g
+       id="g16"
+       transform="translate(3.4097933,68.394333)">
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="105.9744"
+         y="56.69809"
+         id="text2-5-8-2-6-3-9"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-7-3-3-8-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="105.9744"
+           y="56.69809">Extract active orbital energies</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="105.89616"
+         y="61.146969"
+         id="text2-5-8-2-6-8-5-6"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-7-3-3-9-47-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="105.89616"
+           y="61.146969">Sort by ascending energy </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="105.9744"
+         y="65.392632"
+         id="text2-5-8-2-6-8-0-8-3"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-7-3-3-9-4-7-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="105.9744"
+           y="65.392632">Return: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete'"
+   id="tspan16">energy_perm [i] = new position of orbital i</tspan> </tspan></text>
+    </g>
+    <g
+       id="g11-8-45-7"
+       transform="translate(126.31021,68.439451)" />
+    <g
+       id="g11-8-4-9-9"
+       transform="translate(152.95844,69.175091)">
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="-45.575138"
+         y="70.804367"
+         id="text2-5-8-2-6-8-8-5-3-7-1"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="-45.575138"
+           y="70.804367"
+           id="tspan15-8">[orb1(ag,E=-0.5), orb2(ag,E=-0.2), orb3(b1u,E=-0.4)]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="-45.575138"
+         y="74.768478"
+         id="text2-5-8-2-6-8-8-5-3-7-1-6"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="-45.575138"
+           y="74.768478"
+           id="tspan15-8-2">[orb1(ag,E=-0.5), orb3(b1u,E=-0.4), orb2(ag,E=-0.2)]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="-45.467995"
+         y="78.709648"
+         id="text2-5-8-2-6-8-8-5-3-7-1-6-4"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="-45.467995"
+           y="78.709648"
+           id="tspan15-8-2-3">energy_perm = [1,2,3]</tspan></text>
+    </g>
+    <g
+       id="g18"
+       transform="matrix(0.94998629,0,0,1.0001802,-71.920296,68.382546)">
+      <g
+         id="g17">
+        <rect
+           style="fill:#d7f4ee;fill-opacity:1;stroke:#000000;stroke-width:0.267427"
+           id="rect1-5-6-8-7"
+           width="86.256866"
+           height="30.324789"
+           x="96.726288"
+           y="52.575352"
+           ry="6.3841677" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="125.39062"
+         y="50.663628"
+         id="text2-5-3-8-4-9"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-0-6-7-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="125.39062"
+           y="50.663628">[4] REORDER</tspan></text>
+    </g>
+    <g
+       id="g17-7"
+       transform="matrix(0.95031714,0,0,0.79290424,-71.984283,115.56668)"
+       style="fill:#f4eed7">
+      <rect
+         style="fill:#f4eed7;fill-opacity:1;stroke:#000000;stroke-width:0.267427"
+         id="rect1-5-6-8-7-7"
+         width="86.256866"
+         height="30.324789"
+         x="96.726288"
+         y="52.575352"
+         ry="6.3841677" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="48.411762"
+       y="151.64517"
+       id="text2-5-3-8-4-9-2"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         id="tspan2-9-0-6-7-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="48.411762"
+         y="151.64517">[5] SYMMETRY MAPPING</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="136.33862"
+       y="151.65012"
+       id="text2-5-3-8-4-9-2-0"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         id="tspan2-9-0-6-7-5-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="136.33862"
+         y="151.65012">[6] WRITE FORT.55</tspan></text>
+    <g
+       id="g11-8-45-7-3"
+       transform="matrix(0.94998629,0,0,1.0001802,38.801005,68.427672)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="21.493507"
+       y="124.66064"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="21.493507"
+         y="124.66064"
+         id="tspan15-8-4">   OrbitalTable :       idx[i]           = P[idx[i]]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="25.308361"
+       y="173.33321"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="25.308361"
+         y="173.33321"
+         id="tspan15-8-4-2">mrcc_orbsym [ ] = [1,6,1,7,...] <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded'"
+   id="tspan19">(MRCC symmetry)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="115.83278"
+       y="160.67633"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Bold';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="115.83278"
+         y="160.67633"
+         id="tspan15-8-4-2-4">Header:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="115.80726"
+       y="178.73375"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-1"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Bold';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="115.80726"
+         y="178.73375"
+         id="tspan15-8-4-2-4-9">Two-electron integrals (4-fold symmetry):</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="115.8559"
+       y="202.49721"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-1-86"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Bold';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="115.8559"
+         y="202.49721"
+         id="tspan15-8-4-2-4-9-49">One-electron integrals (from Fock matrix):</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="115.83474"
+       y="216.08611"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-1-86-6"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Bold';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="115.83474"
+         y="216.08611"
+         id="tspan15-8-4-2-4-9-49-7">Core energy:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="121.26094"
+       y="165.64908"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-6"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="121.26094"
+         y="165.64908"
+         id="tspan15-8-4-2-4-8">&lt;NMO&gt; &lt;NELEC&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="121.16236"
+       y="169.64919"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-6-8"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="121.16236"
+         y="169.64919"
+         id="tspan15-8-4-2-4-8-9">&lt;sym1&gt; &lt;sym2&gt; &lt;sym3&gt;....&lt;symN&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="124.07477"
+       y="174.47314"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-6-8-1"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="124.07477"
+         y="174.47314"
+         id="tspan15-8-4-2-4-8-9-2">150000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="121.07164"
+       y="184.39697"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-6-8-0"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="121.07164"
+         y="184.39697"
+         id="tspan15-8-4-2-4-8-9-5">eri_2d[iTri(i,k), iTri(l,m)] = &lt;ik|lm&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="121.62864"
+       y="190.47931"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-6-8-0-8"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="121.62864"
+         y="190.47931"
+         id="tspan15-8-4-2-4-8-9-5-8">Loop : i≥j, k≥l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="120.69002"
+       y="196.94759"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-6-8-0-8-6"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="120.69002"
+         y="196.94759"
+         id="tspan15-8-4-2-4-8-9-5-8-9">Write : value i  j  k  l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="120.96174"
+       y="209.47845"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-6-8-0-8-6-9"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="120.96174"
+         y="209.47845"
+         id="tspan15-8-4-2-4-8-9-5-8-9-9">value i  j  0  0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="121.04945"
+       y="222.7188"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-0-2-6-8-0-8-6-9-0"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="121.04945"
+         y="222.7188"
+         id="tspan15-8-4-2-4-8-9-5-8-9-9-2">EMY 0  0  0  0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.45087px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.018117px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188792"
+       x="21.702066"
+       y="130.83641"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-6"
+       inkscape:transform-center-x="-5.2321549"
+       inkscape:transform-center-y="2.5458146"
+       transform="scale(0.97820443,1.0222812)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.45087px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188792"
+         x="21.702066"
+         y="130.83641"
+         id="tspan15-8-4-0">      FockTable :       idx[1:2,j]      = P[idx[1:2,j]]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.44736px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180986px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1886"
+       x="18.320524"
+       y="136.86971"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-6-9"
+       inkscape:transform-center-x="-5.2211889"
+       inkscape:transform-center-y="2.5459573"
+       transform="scale(0.97715767,1.0233763)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44736px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.1886"
+         x="18.320524"
+         y="136.86971"
+         id="tspan15-8-4-0-1">   TwoElIntTable :       idx[1:4,j]      = P[idx[1:4,j]]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+       x="21.569363"
+       y="142.16185"
+       id="text2-5-8-2-6-8-8-5-3-7-1-4-6-9-9"
+       inkscape:transform-center-x="-5.1944444"
+       inkscape:transform-center-y="2.5462963"
+       transform="scale(0.97458459,1.0260782)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+         x="21.569363"
+         y="142.16185"
+         id="tspan15-8-4-0-1-2">          orbsym :       orbsym[P[i]]  = old_orbsym[i]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:4.58611px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+       x="21.085266"
+       y="60.877098"
+       id="text2-6"><tspan
+         sodipodi:role="line"
+         id="tspan2-5"
+         style="font-size:4.58611px;fill:#000000;fill-opacity:1;stroke-width:0.193"
+         x="21.085266"
+         y="60.877098">&amp;SEWARD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:4.58611px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+       x="21.085266"
+       y="66.768425"
+       id="text2-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-7"
+         style="font-size:4.58611px;fill:#000000;fill-opacity:1;stroke-width:0.193"
+         x="21.085266"
+         y="66.768425">&amp;SCF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:4.58611px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+       x="21.085266"
+       y="72.668922"
+       id="text2-6-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-7-6"
+         style="font-size:4.58611px;fill:#000000;fill-opacity:1;stroke-width:0.193"
+         x="21.085266"
+         y="72.668922">&amp;RASSCF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:4.58611px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#2fbd95;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+       x="24.667938"
+       y="79.116531"
+       id="text2-6-1-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-7-6-8"
+         style="font-size:4.58611px;fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:0.193;stroke-opacity:1"
+         x="24.667938"
+         y="79.116531">DMPF</tspan></text>
+    <g
+       id="g21"
+       transform="translate(8.0150682,57.121384)">
+      <rect
+         style="fill:#e3dedb;fill-opacity:1;stroke:#000000;stroke-width:0.171787"
+         id="rect1-5-6-8-8-4-4-4"
+         width="40.475307"
+         height="26.66711"
+         x="52.709732"
+         y="152.63126"
+         ry="5.6141295"
+         transform="translate(0,-3.7041668)" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+         x="56.149502"
+         y="152.75987"
+         id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-7"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"
+         transform="matrix(0.97458459,0,0,1.0260782,0,-3.7041668)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+           x="56.149502"
+           y="152.75987"
+           id="tspan15-8-4-2-45-39">5  10</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+         x="55.811211"
+         y="156.82961"
+         id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-9-2"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"
+         transform="matrix(0.97458459,0,0,1.0260782,0,-3.7041668)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+           x="55.811211"
+           y="156.82961"
+           id="tspan15-8-4-2-45-3-9">1 1 8 7 6 </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+         x="55.674973"
+         y="160.8349"
+         id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-9-8-4"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"
+         transform="matrix(0.97458459,0,0,1.0260782,0,-3.7041668)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+           x="55.674973"
+           y="160.8349"
+           id="tspan15-8-4-2-45-3-7-1">  150000</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+         x="55.721039"
+         y="165.59085"
+         id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-9-8-2-9"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"
+         transform="matrix(0.97458459,0,0,1.0260782,0,-3.7041668)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+           x="55.721039"
+           y="165.59085"
+           id="tspan15-8-4-2-45-3-7-5-0"> 0.5971438E+01  1 1 1 1 </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+         x="55.687851"
+         y="169.45869"
+         id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-9-8-2-9-5"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"
+         transform="matrix(0.97458459,0,0,1.0260782,0,-3.7041668)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+           x="55.687851"
+           y="169.45869"
+           id="tspan15-8-4-2-45-3-7-5-0-7">-0.6154479E+00  1 1 2 1 </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+         x="58.202755"
+         y="172.87245"
+         id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-9-8-2-9-5-8"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"
+         transform="matrix(0.97458459,0,0,1.0260782,0,-3.7041668)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+           x="58.202755"
+           y="172.87245"
+           id="tspan15-8-4-2-45-3-7-5-0-7-8">....</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:4.58611px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#2fbd95;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="62.088165"
+         y="180.27972"
+         id="text2-6-1-2-5-2-23"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-7-6-8-0-4"
+           style="font-size:4.58611px;fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:0.193;stroke-opacity:1"
+           x="62.088165"
+           y="180.27972">FORT.55</tspan></text>
+    </g>
+    <g
+       id="g23"
+       transform="translate(-59.795865,30.162513)">
+      <g
+         id="g20"
+         transform="translate(21.230036,-23.636655)">
+        <g
+           id="g22">
+          <rect
+             style="fill:#e3dedb;fill-opacity:1;stroke:#000000;stroke-width:0.141075"
+             id="rect1-5-6-8-8-4-4"
+             width="27.265278"
+             height="26.697823"
+             x="58.814285"
+             y="199.72697"
+             ry="5.6205955" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+             x="62.429005"
+             y="198.6736"
+             id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20"
+             inkscape:transform-center-x="-5.1944444"
+             inkscape:transform-center-y="2.5462963"
+             transform="scale(0.97458459,1.0260782)"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+               x="62.429005"
+               y="198.6736"
+               id="tspan15-8-4-2-45">calc=CCSDTQ</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+             x="62.090714"
+             y="202.74333"
+             id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-9"
+             inkscape:transform-center-x="-5.1944444"
+             inkscape:transform-center-y="2.5462963"
+             transform="scale(0.97458459,1.0260782)"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+               x="62.090714"
+               y="202.74333"
+               id="tspan15-8-4-2-45-3">iface=cfour</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+             x="61.954475"
+             y="206.74863"
+             id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-9-8"
+             inkscape:transform-center-x="-5.1944444"
+             inkscape:transform-center-y="2.5462963"
+             transform="scale(0.97458459,1.0260782)"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+               x="61.954475"
+               y="206.74863"
+               id="tspan15-8-4-2-45-3-7">....</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+             x="62.000542"
+             y="210.98886"
+             id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-9-8-2"
+             inkscape:transform-center-x="-5.1944444"
+             inkscape:transform-center-y="2.5462963"
+             transform="scale(0.97458459,1.0260782)"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+               x="62.000542"
+               y="210.98886"
+               id="tspan15-8-4-2-45-3-7-5">scftype=RHF</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+             x="62.036221"
+             y="214.97423"
+             id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-9-8-2-5"
+             inkscape:transform-center-x="-5.1944444"
+             inkscape:transform-center-y="2.5462963"
+             transform="scale(0.97458459,1.0260782)"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+               x="62.036221"
+               y="214.97423"
+               id="tspan15-8-4-2-45-3-7-5-6">rest=2</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0180533px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.188129"
+             x="62.090332"
+             y="218.26648"
+             id="text2-5-8-2-6-8-8-5-3-7-1-4-0-20-9-8-2-5-5"
+             inkscape:transform-center-x="-5.1944444"
+             inkscape:transform-center-y="2.5462963"
+             transform="scale(0.97458459,1.0260782)"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43874px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete';fill:#000000;fill-opacity:1;stroke-width:0.188129"
+               x="62.090332"
+               y="218.26648"
+               id="tspan15-8-4-2-45-3-7-5-6-6">symm=4</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:4.58611px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#2fbd95;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="86.606133"
+         y="207.46208"
+         id="text2-6-1-2-5-2-23-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-7-6-8-0-4-3"
+           style="font-size:4.58611px;fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:0.193;stroke-opacity:1"
+           x="86.606133"
+           y="207.46208">MINP</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1"
+       d="m 34.592024,83.795743 -0.008,4.899481"
+       id="path6" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.534657;stroke-miterlimit:4.7;stroke-dasharray:0.534657, 3.20794;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 49.159638,211.15507 8.942594,-0.041"
+       id="path6-0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.534657;stroke-miterlimit:4.7;stroke-dasharray:0.534657, 3.20794;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 48.94914,218.0564 8.942594,-0.041"
+       id="path6-0-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.534657;stroke-miterlimit:4.7;stroke-dasharray:0.534657, 3.20794;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 48.949134,224.40641 8.942594,-0.041"
+       id="path6-0-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#RoundedArrow)"
+       d="m 100.98287,95.038688 4.89932,0.04005"
+       id="path6-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot-9);marker-end:url(#RoundedArrow-7)"
+       d="m 101.54167,169.6878 4.89932,0.0401"
+       id="path6-9-5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot-8);marker-end:url(#RoundedArrow-1)"
+       d="m 187.00756,114.94935 -0.0521,4.89924"
+       id="path6-9-1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot-8-6);marker-end:url(#RoundedArrow-1-4)"
+       d="m 95.241197,151.54561 -0.0521,4.89921"
+       id="path6-9-1-9" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.407521;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot-8-1);marker-end:url(#RoundedArrow-1-1)"
+       d="m 106.2901,127.38283 -4.23914,-0.003"
+       id="path6-9-1-6" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.407521;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot-8-1-0);marker-end:url(#RoundedArrow-1-1-5)"
+       d="m 106.18113,217.11166 -4.23914,-0.003"
+       id="path6-9-1-6-6" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.291748;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.379493,104.9753 79.029143,5.5e-4"
+       id="path6-1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.301476;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1"
+       d="m 107.15631,104.92092 84.39488,5.5e-4"
+       id="path6-1-1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.197732;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1"
+       d="m 107.42062,135.66656 84.39514,-2.3e-4"
+       id="path6-1-1-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193126;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1"
+       d="M 20.799966,174.48066 101.306,174.48042"
+       id="path6-1-1-3-9" />
+    <g
+       id="g16-0"
+       transform="translate(-83.948211,105.80805)">
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="105.9744"
+         y="56.69809"
+         id="text2-5-8-2-6-3-9-9"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-7-3-3-8-3-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="105.9744"
+           y="56.69809">Get irrep label: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete'"
+   id="tspan18">lIrrep [ ] - &quot;ag&quot;, &quot;b1u&quot;, &quot;a1&quot;,</tspan> etc.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="105.87113"
+         y="61.074951"
+         id="text2-5-8-2-6-8-5-6-0"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-7-3-3-9-47-4-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="105.87113"
+           y="61.074951">Convert to lower case</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:3.52778px;font-family:'CMU Concrete';-inkscape-font-specification:'CMU Concrete Medium';letter-spacing:0.0185208px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.193"
+         x="105.9744"
+         y="65.392632"
+         id="text2-5-8-2-6-8-0-8-3-6"
+         inkscape:transform-center-x="-5.1944444"
+         inkscape:transform-center-y="2.5462963"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-7-3-3-9-4-7-2-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'.SF Compact Rounded';-inkscape-font-specification:'.SF Compact Rounded';fill:#000000;fill-opacity:1;stroke-width:0.193"
+           x="105.9744"
+           y="65.392632">Map to MRCC numbering:</tspan></text>
+    </g>
+  </g>
+</svg>
