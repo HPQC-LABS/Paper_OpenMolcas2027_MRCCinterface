@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mrcc_interface.aux
+The style file: achemso.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: acs-mrcc_interface.bib
+Database file #2: bibliography.bib
+achemso 2025-01-29 v3.13h
+You've used 3 entries,
+            2538 wiz_defined-function locations,
+            771 strings with 9685 characters,
+and the built_in function-call counts, 4688 in all, are:
+= -- 189
+> -- 633
+< -- 2
++ -- 254
+- -- 251
+* -- 558
+:= -- 711
+add.period$ -- 4
+call.type$ -- 3
+change.case$ -- 4
+chr.to.int$ -- 1
+cite$ -- 3
+duplicate$ -- 287
+empty$ -- 63
+format.name$ -- 252
+if$ -- 761
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 40
+num.names$ -- 6
+pop$ -- 5
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 3
+stack$ -- 0
+substring$ -- 50
+swap$ -- 520
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 18
+warning$ -- 0
+while$ -- 9
+width$ -- 0
+write$ -- 54

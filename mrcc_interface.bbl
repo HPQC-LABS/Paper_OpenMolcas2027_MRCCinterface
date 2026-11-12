@@ -1,0 +1,40 @@
+\providecommand{\latin}[1]{#1}
+\makeatletter
+\providecommand{\doi}
+  {\begingroup\let\do\@makeother\dospecials
+  \catcode`\{=1 \catcode`\}=2 \doi@aux}
+\providecommand{\doi@aux}[1]{\endgroup\texttt{#1}}
+\makeatother
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{3}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[K{\'a}llay \latin{et~al.}(2020)K{\'a}llay, Nagy, Mester, Rolik, Samu, Csontos, Cs{\'o}ka, Szab{\'o}, Gyevi-Nagy, H{\'e}gely, Ladj{\'a}nszki, Szegedy, Lad{\'o}czki, Petrov, Farkas, Mezei, and Ganyecz]{Kallay2020}
+K{\'a}llay,~M.; Nagy,~P.~R.; Mester,~D.; Rolik,~Z.; Samu,~G.; Csontos,~J.; Cs{\'o}ka,~J.; Szab{\'o},~P.~B.; Gyevi-Nagy,~L.; H{\'e}gely,~B.; Ladj{\'a}nszki,~I.; Szegedy,~L.; Lad{\'o}czki,~B.; Petrov,~K.; Farkas,~M.; Mezei,~P.~D.; Ganyecz,~{\'A}. The {MRCC} Program System: Accurate Quantum Chemistry from Water to Proteins. \emph{The Journal of Chemical Physics} \textbf{2020}, \emph{152}, 074107\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Li~Manni \latin{et~al.}(2023)Li~Manni, Fdez.~Galv{\'a}n, Alavi, Aleotti, Aquilante, Autschbach, Avagliano, Baiardi, Bao, Battaglia, Birnoschi, Blanco-Gonz{\'a}lez, Bokarev, Broer, Cacciari, Calio, Carlson, Carvalho~Couto, Cerd{\'a}n, Chibotaru, Chilton, Church, Conti, Coriani, Cu{\'e}llar-Zuquin, Daoud, Dattani, Decleva, de~Graaf, Delcey, De~Vico, Dobrautz, Dong, Feng, Ferr{\'e}, Filatov(Gulak), Gagliardi, Garavelli, Gonz{\'a}lez, Guan, Guo, Hennefarth, Hermes, Hoyer, Huix-Rotllant, Jaiswal, Kaiser, Kaliakin, Khamesian, King, Kochetov, Kro{\'s}nicki, Kumaar, Larsson, Lehtola, Lepetit, Lischka, L{\'o}pez~R{\'\i}os, Lundberg, Ma, Mai, Marquetand, Merritt, Montorsi, M{\"o}rchen, Nenov, Nguyen, Nishimoto, Oakley, Olivucci, Oppel, Padula, Pandharkar, Phung, Plasser, Raggi, Rebolini, Reiher, Rivalta, Roca-Sanju{\'a}n, Romig, Safari, S{\'a}nchez-Mansilla, Sand, Schapiro, Scott, Segarra-Mart{\'\i}, Segatta, Sergentu, Sharma, Shepard, Shu, Staab, Straatsma, S{\o}rensen, Tenorio, Truhlar, Ungur, Vacher, Veryazov, Vo{\ss}, Weser, Wu, Yang, Yarkony, Zhou, Zobel, and Lindh]{LiManni2023}
+Li~Manni,~G.; Fdez.~Galv{\'a}n,~I.; Alavi,~A.; Aleotti,~F.; Aquilante,~F.; Autschbach,~J.; Avagliano,~D.; Baiardi,~A.; Bao,~J.~J.; Battaglia,~S.; Birnoschi,~L.; Blanco-Gonz{\'a}lez,~A.; Bokarev,~S.~I.; Broer,~R.; Cacciari,~R.; Calio,~P.~B.; Carlson,~R.~K.; Carvalho~Couto,~R.; Cerd{\'a}n,~L.; Chibotaru,~L.~F.; Chilton,~N.~F.; Church,~J.~R.; Conti,~I.; Coriani,~S.; Cu{\'e}llar-Zuquin,~J.; Daoud,~R.~E.; Dattani,~N.; Decleva,~P.; de~Graaf,~C.; Delcey,~M.~G.; De~Vico,~L.; Dobrautz,~W.; Dong,~S.~S.; Feng,~R.; Ferr{\'e},~N.; Filatov(Gulak),~M.; Gagliardi,~L.; Garavelli,~M.; Gonz{\'a}lez,~L.; Guan,~Y.; Guo,~M.; Hennefarth,~M.~R.; Hermes,~M.~R.; Hoyer,~C.~E.; Huix-Rotllant,~M.; Jaiswal,~V.~K.; Kaiser,~A.; Kaliakin,~D.~S.; Khamesian,~M.; King,~D.~S.; Kochetov,~V.; Kro{\'s}nicki,~M.; Kumaar,~A.~A.; Larsson,~E.~D.; Lehtola,~S.; Lepetit,~M.-B.; Lischka,~H.; L{\'o}pez~R{\'\i}os,~P.; Lundberg,~M.; Ma,~D.; Mai,~S.; Marquetand,~P.; Merritt,~I. C.~D.; Montorsi,~F.; M{\"o}rchen,~M.; Nenov,~A.; Nguyen,~V. H.~A.; Nishimoto,~Y.; Oakley,~M.~S.; Olivucci,~M.; Oppel,~M.; Padula,~D.; Pandharkar,~R.; Phung,~Q.~M.; Plasser,~F.; Raggi,~G.; Rebolini,~E.; Reiher,~M.; Rivalta,~I.; Roca-Sanju{\'a}n,~D.; Romig,~T.; Safari,~A.~A.; S{\'a}nchez-Mansilla,~A.; Sand,~A.~M.; Schapiro,~I.; Scott,~T.~R.; Segarra-Mart{\'\i},~J.; Segatta,~F.; Sergentu,~D.-C.; Sharma,~P.; Shepard,~R.; Shu,~Y.; Staab,~J.~K.; Straatsma,~T.~P.; S{\o}rensen,~L.~K.; Tenorio,~B. N.~C.; Truhlar,~D.~G.; Ungur,~L.; Vacher,~M.; Veryazov,~V.; Vo{\ss},~T.~A.; Weser,~O.; Wu,~D.; Yang,~X.; Yarkony,~D.; Zhou,~C.; Zobel,~J.~P.; Lindh,~R. The {O}pen{M}olcas \emph{Web}: A Community-Driven Approach to Advancing Computational Chemistry. \emph{Journal of Chemical Theory and Computation} \textbf{2023}, \emph{19}, 6933--6991\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}
